@@ -1,6 +1,6 @@
 # Starter Web Repo
-pavan
-This repository is for showing how Git and GitHub work
+It is starter section
+
 ## Introduction
 
 ## Purpose
