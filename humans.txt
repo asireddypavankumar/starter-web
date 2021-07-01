@@ -3,7 +3,11 @@
 
 # TEAM
 
-    reddy's team
+<<<<<<< HEAD
+    
+=======
+    pavan kumar team
+>>>>>>> simple-changes
 
 # THANKS
 
