@@ -17,3 +17,5 @@ add fork to contribute
 **********************
 It is copyright section
 more info added
+
+adding for stash
