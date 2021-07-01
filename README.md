@@ -11,3 +11,7 @@ It is purpose section
 It is deployment section
 
 ## How to contribute
+
+##copy right
+**********************
+It is copyright section
