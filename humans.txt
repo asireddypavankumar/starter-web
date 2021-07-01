@@ -11,7 +11,7 @@ master
 
 # THANKS
 
-    <name>
+    Thanks to students
 
 # TECHNOLOGY COLOPHON
 
