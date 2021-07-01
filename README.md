@@ -5,8 +5,9 @@ It is starter section
 It is introduction
 
 ## Purpose
+It is purpose section
 
-Sample website with plenty of files for demos
 ## Deployment
+It is deployment section
 
 ## How to contribute
