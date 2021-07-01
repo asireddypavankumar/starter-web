@@ -12,7 +12,7 @@ master
 # THANKS
 
     Thanks to students
-
+    added more thanks
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
