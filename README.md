@@ -11,6 +11,7 @@ It is purpose section
 It is deployment section
 
 ## How to contribute
+add fork to contribute
 
 ##copy right
 **********************
